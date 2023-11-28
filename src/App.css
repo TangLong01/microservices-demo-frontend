@@ -12,7 +12,7 @@ input[type="number"] {
   -moz-appearance: textfield;
 }
 
-:where(.css-dev-only-do-not-override-zcfrx9).ant-btn-primary {
+.ant-btn-primary {
   color: #fff;
   background-color: #1677ff !important;
   box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
